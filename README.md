@@ -1,2 +1,2 @@
 # learning-journey
-编程及指令自学笔记
+学习日记以及Python-Linux指令自学记录
